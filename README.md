@@ -1,2 +1,2 @@
 # falling-sand
-stanford nifty, falling sand simulation
+stanford nifty of a falling sand simulation, sophomore year
