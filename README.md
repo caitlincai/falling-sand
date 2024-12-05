@@ -1,2 +1,2 @@
 # falling-sand
-falling sand simulation
+stanford nifty, falling sand simulation
